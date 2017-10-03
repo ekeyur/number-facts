@@ -1,0 +1,12 @@
+body {
+    background-color: lightslategray;
+}
+
+.card {
+    margin-top: 5vh;
+    padding: 30px;
+}
+
+#fact {
+    display: none;
+}
